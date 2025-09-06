@@ -72,26 +72,7 @@ Comprehensive form styling includes:
 - Custom radio button implementation for time slots
 - Accessible focus states
 
-## File Structure
-```
-project-root/
-│
-├── index.html          # Home page with services overview and contact
-├── doctors.html        # Doctor listings with filtering capability
-├── services.html       # Detailed service descriptions
-├── about.html          # Organization information and team profiles
-├── book.html          # Appointment booking form
-├── styles.css         # Comprehensive custom stylesheet
-├── Images/            # Directory for all visual assets
-│   ├── logo.jpg
-│   ├── Thabo.jpeg
-│   ├── Nokthula.jpg
-│   ├── Sipho.jpg
-│   └── ... (other doctor images)
-└── POE WEDE5020.pdf   # Project proposal document
-```
-
-## Technical Implementation
+### Technical Implementation
 
 ### Frontend Technologies
 - **HTML5**: Semantic markup for accessibility and SEO
@@ -112,7 +93,7 @@ The website has been tested and is compatible with:
 - Efficient CSS with reusable classes
 - Responsive image handling
 
-## References
+## Reference List
 
 British Medical Association (BMA). (2022) *Improving digital access to healthcare*. [Online] Available at: https://www.bma.org.uk [Accessed 4 Aug. 2025].
 
