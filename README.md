@@ -113,5 +113,4 @@ Norman, D.A. & Nielsen, J. (2020) *The Design of Everyday Things*. Revised and e
 
 World Health Organization (WHO). (2023) *Digital health*. [Online] Available at: https://www.who.int/health-topics/digital-health [Accessed 4 Aug. 2025].
 
----
-**Note**: This project was developed for educational purposes as part of the IIE WEDE5020 Web Development (Introduction) module. All references follow IIE Harvard Style formatting guidelines.
+
