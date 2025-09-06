@@ -1,7 +1,7 @@
 # HealthCare+ Website
 
 ## Project Overview
-This document provides detailed documentation of the **HealthCare+** website project, a comprehensive healthcare appointment booking system developed as part of the WEDE5020 Web Development (Introduction) module. The project was created by **Tebalelo Riba (ST10477225)** and includes a fully responsive website with multiple interconnected pages.
+This document provides detailed documentation of the **HealthCare+** website project, a comprehensive healthcare appointment booking system. The website was created by **Tebalelo Riba (ST10477225)** and includes a fully responsive website with multiple interconnected pages.
 
 ## Project Description
 The HealthCare+ website is a patient-centered healthcare platform that enables users to:
