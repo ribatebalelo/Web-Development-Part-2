@@ -77,7 +77,6 @@ Comprehensive form styling includes:
 ### Frontend Technologies
 - **HTML5**: Semantic markup for accessibility and SEO
 - **CSS3**: Custom styles with Flexbox and Grid layouts
-- **JavaScript**: Minimal functionality for interactive elements
 - **Bootstrap 5.3.0**: Framework for responsive components
 
 ### Browser Compatibility
