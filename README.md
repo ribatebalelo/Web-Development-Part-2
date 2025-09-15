@@ -149,15 +149,15 @@ Follows **NHS Digital security and efficiency standards** (NHS Digital, 2021) an
 
 ## References
 
-* British Medical Association (BMA). (2022) *Improving digital access to healthcare*. [https://www.bma.org.uk](https://www.bma.org.uk) \[Accessed 4 Aug. 2025].
-* Krug, S. (2014) *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability*. 3rd ed. New Riders.
-* Lidwell, W., Holden, K. & Butler, J. (2010) *Universal Principles of Design*. Revised and updated edition. Rockport Publishers.
-* Material Design. (2025) *Color and Typography Guidelines*. [https://material.io/design/](https://material.io/design/) \[Accessed 19 August 2025].
-* MDN Web Docs. (2025) *HTML: HyperText Markup Language*. [https://developer.mozilla.org/en-US/docs/Learn/HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) \[Accessed 19 August 2025].
-* MDN Web Docs. (2025) *JavaScript Basics*. [https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) \[Accessed 19 August 2025].
-* National Health Service (NHS) Digital. (2021) *Data Security and Protection Toolkit*. [https://digital.nhs.uk/data-security](https://digital.nhs.uk/data-security) \[Accessed 4 Aug. 2025].
-* Norman, D.A. & Nielsen, J. (2020) *The Design of Everyday Things*. Revised and expanded edition. MIT Press.
-* World Health Organization (WHO). (2023) *Digital health*. [https://www.who.int/health-topics/digital-health](https://www.who.int/health-topics/digital-health) \[Accessed 4 Aug. 2025].
+ British Medical Association (BMA). (2022) *Improving digital access to healthcare*. [https://www.bma.org.uk](https://www.bma.org.uk) \[Accessed 4 Aug. 2025].
+ Krug, S. (2014) *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability*. 3rd ed. New Riders.
+ Lidwell, W., Holden, K. & Butler, J. (2010) *Universal Principles of Design*. Revised and updated edition. Rockport Publishers.
+ Material Design. (2025) *Color and Typography Guidelines*. [https://material.io/design/](https://material.io/design/) \[Accessed 19 August 2025].
+ MDN Web Docs. (2025) *HTML: HyperText Markup Language*. [https://developer.mozilla.org/en-US/docs/Learn/HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) \[Accessed 19 August 2025].
+ MDN Web Docs. (2025) *JavaScript Basics*. [https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) \[Accessed 19 August 2025].
+ National Health Service (NHS) Digital. (2021) *Data Security and Protection Toolkit*. [https://digital.nhs.uk/data-security](https://digital.nhs.uk/data-security) \[Accessed 4 Aug. 2025].
+ Norman, D.A. & Nielsen, J. (2020) *The Design of Everyday Things*. Revised and expanded edition. MIT Press.
+ World Health Organization (WHO). (2023) *Digital health*. [https://www.who.int/health-topics/digital-health](https://www.who.int/health-topics/digital-health) \[Accessed 4 Aug. 2025].
 
 ```
 
