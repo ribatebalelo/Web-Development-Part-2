@@ -31,5 +31,6 @@ The CSS begins with a comprehensive reset to ensure consistent rendering across 
   box-sizing: border-box;
 }
 
+
 This reset eliminates default browser styling and ensures consistent sizing using the border-box model (MDN Web Docs, 2025).
 
