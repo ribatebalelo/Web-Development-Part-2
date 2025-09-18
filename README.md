@@ -8,7 +8,8 @@
 
 - [Project Overview](#project-overview)  
 - [Project Description](#project-description)  
-- [Features](#features)  
+- [Features](#features)
+- [Changelog](#Changelog)  
 - [CSS Enhancements and Customizations](#css-enhancements-and-customizations)  
   - [Base Styles and Reset](#base-styles-and-reset)  
   - [Typography System](#typography-system)  
@@ -56,7 +57,7 @@ By offering these features, HealthCare+ improves digital access to healthcare, i
 
 ---
 
-# 📄 Changelog
+#  Changelog
 
 All notable changes to this project will be documented in this file.
 
