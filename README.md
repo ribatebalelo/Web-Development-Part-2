@@ -56,19 +56,15 @@ By offering these features, HealthCare+ improves digital access to healthcare, i
 
 ---
 
-Here's a sample `CHANGELOG.md` entry you can include in your GitHub repository to reflect the updates you made:
-
----
-
 # 📄 Changelog
 
 All notable changes to this project will be documented in this file.
 
-### ✨ Added
+###  Added
 
 * Integrated new CSS styling to enhance layout, colors, and overall design of the new website.
 
-### 🛠️ Fixed
+### Fixed
 
 * Corrected and updated citations in the website proposal draft to ensure proper formatting and accuracy.
 
