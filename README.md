@@ -59,8 +59,6 @@ By offering these features, HealthCare+ improves digital access to healthcare, i
 
 #  Changelog
 
-All notable changes to this project will be documented in this file.
-
 ###  Added
 
 * Integrated new CSS styling to enhance layout, colors, and overall design of the new website.
